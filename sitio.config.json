@@ -1,0 +1,27 @@
+{
+  "_ayuda": "Datos que define el desarrollador (no se editan en /admin). Lo que cambia el cliente está en data/.",
+  "nombre": "Life Center Clínica Veterinaria",
+  "marca_a": "Life Center",
+  "marca_b": "Clínica Veterinaria",
+  "lema": "La clínica veterinaria más central de Rancagua",
+  "rubro": "Clínica veterinaria",
+  "schema_tipo": "VeterinaryCare",
+  "seo_titulo": "Life Center · Clínica veterinaria en Rancagua centro (Alcázar 411)",
+  "seo_descripcion": "Clínica veterinaria en pleno centro de Rancagua: consultas, urgencias, vacunas, microchip, esterilizaciones, cirugías y ecografía para perros y gatos. Agenda por WhatsApp.",
+  "site_url": "https://lifecenter-rancagua.vercel.app",
+  "github_repo": "Bemol69/lifecenter_rancagua",
+  "google_verificacion": "",
+  "colores": {
+    "marino": "#0B2545",
+    "naranja": "#E8641B",
+    "amarillo": "#EAF1F8",
+    "verde": "#0F766E",
+    "crema": "#F6F8FB",
+    "papel": "#FFFFFF",
+    "linea": "#DCE3EC"
+  },
+  "fuentes": {
+    "titulos": "Manrope",
+    "texto": "Inter"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "imagen": "img/flyer-jueves-perrunos.jpg", "titulo": "Jueves Perrunos", "texto": "Vacuna séxtuple/óctuple y antirrábica $13.000.", "mensaje": "Hola Life Center 👋 Quiero agendar para el Jueves Perrunos." },
+    { "imagen": "img/flyer-martes-gatunos.jpg", "titulo": "Martes Gatunos", "texto": "Vacuna triple felina y antirrábica $13.000.", "mensaje": "Hola Life Center 👋 Quiero agendar para el Martes Gatunos." },
+    { "imagen": "img/chaucha.jpg", "titulo": "Caso real: Chaucha", "texto": "Recuperada de una compleja cirugía de hernias tras ser mordida por un perro.", "mensaje": "Hola Life Center 👋 Quiero info de cirugías." }
+  ]
+}

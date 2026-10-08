@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "lifecenter", "runtimeExecutable": "npx", "runtimeArgs": ["--yes", "serve", "dist", "-l", "5620"], "port": 5620 }
+  ]
+}

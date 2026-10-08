@@ -1,0 +1,151 @@
+{
+  "whatsapp": "56966332397",
+  "mensaje_whatsapp": "Hola Life Center 👋 Quiero agendar una hora para mi regalón.",
+  "instagram": "lifecenter_rancagua",
+  "email": "",
+  "ciudad": "Rancagua",
+  "region": "Región de O'Higgins",
+  "direccion": "Alcázar 411, esquina Germán Riesco, Rancagua",
+  "referencia": "A una cuadra de la Plaza Los Héroes",
+  "hero_eyebrow": "Clínica veterinaria · Rancagua centro",
+  "hero_titulo": "Atención veterinaria de confianza en el centro de Rancagua.",
+  "hero_bajada": "Consultas, urgencias, vacunas, cirugías y ecografía para perros y gatos. Agenda tu hora por WhatsApp.",
+  "hero_foto_pie": "Chaucha, recuperada de una cirugía de hernias en nuestra clínica",
+  "zonas": [
+    "Rancagua centro",
+    "Machalí",
+    "Graneros",
+    "Olivar",
+    "Requínoa",
+    "Otra comuna"
+  ],
+  "horario": [
+    {
+      "dia": "Lunes",
+      "cerrado": false,
+      "abre": "10:00",
+      "cierra": "13:30",
+      "abre2": "15:00",
+      "cierra2": "19:00"
+    },
+    {
+      "dia": "Martes",
+      "cerrado": false,
+      "abre": "10:00",
+      "cierra": "13:30",
+      "abre2": "15:00",
+      "cierra2": "19:00"
+    },
+    {
+      "dia": "Miércoles",
+      "cerrado": false,
+      "abre": "10:00",
+      "cierra": "13:30",
+      "abre2": "15:00",
+      "cierra2": "19:00"
+    },
+    {
+      "dia": "Jueves",
+      "cerrado": false,
+      "abre": "10:00",
+      "cierra": "13:30",
+      "abre2": "15:00",
+      "cierra2": "19:00"
+    },
+    {
+      "dia": "Viernes",
+      "cerrado": false,
+      "abre": "10:00",
+      "cierra": "13:30",
+      "abre2": "15:00",
+      "cierra2": "19:00"
+    },
+    {
+      "dia": "Sábado",
+      "cerrado": false,
+      "abre": "10:00",
+      "cierra": "13:30",
+      "abre2": "15:00",
+      "cierra2": "19:00"
+    },
+    {
+      "dia": "Domingo",
+      "cerrado": true,
+      "abre": "",
+      "cierra": "",
+      "abre2": "",
+      "cierra2": ""
+    }
+  ],
+  "semana": [
+    {
+      "dia": "Lunes",
+      "titulo": "Lunes de Cirugías",
+      "texto": "Reserva tu hora para cirugías.",
+      "color": "marino",
+      "mensaje": "Hola Life Center 👋 Quiero reservar hora para una cirugía (Lunes de Cirugías)."
+    },
+    {
+      "dia": "Martes",
+      "titulo": "Martes Gatunos",
+      "texto": "Vacuna triple felina y antirrábica $13.000.",
+      "color": "naranja",
+      "mensaje": "Hola Life Center 👋 Quiero agendar para el Martes Gatunos."
+    },
+    {
+      "dia": "Miércoles",
+      "titulo": "Consultas y control",
+      "texto": "Consulta, microchip y desparasitarios.",
+      "color": "verde",
+      "mensaje": "Hola Life Center 👋 Quiero agendar una consulta."
+    },
+    {
+      "dia": "Jueves",
+      "titulo": "Jueves Perrunos",
+      "texto": "Vacuna séxtuple/óctuple y antirrábica $13.000.",
+      "color": "verde",
+      "mensaje": "Hola Life Center 👋 Quiero agendar para el Jueves Perrunos."
+    },
+    {
+      "dia": "Viernes",
+      "titulo": "Consultas y control",
+      "texto": "Consulta, vacunas y exámenes.",
+      "color": "verde",
+      "mensaje": "Hola Life Center 👋 Quiero agendar una consulta."
+    },
+    {
+      "dia": "Sábado",
+      "titulo": "Jornadas especiales",
+      "texto": "Esterilizaciones, castraciones y ecografías con cupos limitados.",
+      "color": "marino",
+      "mensaje": "Hola Life Center 👋 Quiero info de las jornadas del sábado."
+    },
+    {
+      "dia": "Domingo",
+      "titulo": "Descanso",
+      "texto": "Escríbenos y te respondemos el lunes.",
+      "color": "crema",
+      "mensaje": "Hola Life Center 👋 Les escribo en domingo para consultar."
+    }
+  ],
+  "cifras": [
+    {
+      "prefijo": "",
+      "numero": 7305,
+      "sufijo": "",
+      "texto": "seguidores en Instagram"
+    },
+    {
+      "prefijo": "",
+      "numero": 787,
+      "sufijo": "",
+      "texto": "publicaciones con casos y jornadas"
+    },
+    {
+      "prefijo": "",
+      "numero": 1,
+      "sufijo": "cuadra",
+      "texto": "de la Plaza Los Héroes"
+    }
+  ]
+}
